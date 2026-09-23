@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", function () {
        BHUMI BANDHU CONFIGURATION
        ===================================================== */
 
-    const WHATSAPP_NUMBER = "918370833510";
+    const WHATSAPP_NUMBER = "919800539608";
 
-    const PHONE_NUMBER = "+918370833510";
+    const PHONE_NUMBER = "+919800539608";
 
     const EMAIL_ADDRESS = "officework.bolpur@gmail.com";
 
@@ -204,7 +204,7 @@ document.addEventListener("DOMContentLoaded", function () {
             if (phoneText) {
 
                 phoneText.textContent =
-                    "+91 8370833510";
+                    "+91 9800539608";
 
             }
 
