@@ -625,7 +625,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 }
 
+            if (thana) {
 
+                    message +=
+                        "থানা: " +
+                        thana +
+                        "\n";
+
+                }
+                
                 if (mouza) {
 
                     message +=
