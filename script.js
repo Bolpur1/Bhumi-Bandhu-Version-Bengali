@@ -466,6 +466,11 @@ document.addEventListener("DOMContentLoaded", function () {
                         ?.value
                         .trim() || "";
 
+                const thana =
+                    document
+                        .getElementById("thana")
+                        ?.value
+                        .trim() || "";
 
                 const mouza =
                     document
