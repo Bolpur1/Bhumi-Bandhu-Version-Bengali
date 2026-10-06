@@ -583,7 +583,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
                 let message =
-                    "নমস্কার, আমি ভূমি বন্ধু-তে একটি কুয়েরি পাঠাতে চাই।\n\n";
+                    "নমস্কার, আমি ভূমি বন্ধু-তে একটি তথ্য পাঠাতে চাই।\n\n";
 
 
                 message +=
@@ -591,7 +591,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
                 message +=
-                    "ভূমি বন্ধু - অনলাইন কুয়েরি\n";
+                    "ভূমি বন্ধু - অনলাইন তথ্য\n";
 
 
                 message +=
